@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/firon/static/css/main.f855e6bc.css",
+    "main.js": "/firon/static/js/main.bf3df896.js",
+    "static/js/453.c57efb98.chunk.js": "/firon/static/js/453.c57efb98.chunk.js",
+    "static/media/logo.svg": "/firon/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/firon/index.html",
+    "main.f855e6bc.css.map": "/firon/static/css/main.f855e6bc.css.map",
+    "main.bf3df896.js.map": "/firon/static/js/main.bf3df896.js.map",
+    "453.c57efb98.chunk.js.map": "/firon/static/js/453.c57efb98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.bf3df896.js"
+  ]
+}
